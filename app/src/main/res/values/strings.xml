@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Choco</string>
+    <string name="base_url">https://api.coindesk.com/</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="today">Today</string>
+    <string name="History">Yesterday</string>
 </resources>
